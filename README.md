@@ -6,9 +6,9 @@ Installs wkhtmltopdf binary from tarball.
 Attributes
 ==========
 
-`node['wkhtmltopdf']['arch']` - cpu architecture, defaults to `amd64`
-`node['wkhtmltopdf']['version']` - wkhtmltopdf version, default to latest `0.11.0_rc1`
-`node['wkhtmltopdf']['static_download_url']` - wkhtmltopdf download source
+* `node['wkhtmltopdf']['arch']` - cpu architecture, defaults to `amd64`
+* `node['wkhtmltopdf']['version']` - wkhtmltopdf version, default to latest `0.11.0_rc1`
+* `node['wkhtmltopdf']['static_download_url']` - wkhtmltopdf download source
 
 License and Author
 ==================
