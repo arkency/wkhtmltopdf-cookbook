@@ -9,6 +9,8 @@ Recipies
 * default: install binary from tarball.
 * source: compile from source (currently only works on ubuntu).
 
+NOTE: If you're having issues with the rails wise_pdf gem (https://github.com/igor-alexandrov/wisepdf#problems-with-with-wkhtmltopdf-010-and-above), then you'll want to use the _source_ recipe.
+
 Attributes
 ==========
 
