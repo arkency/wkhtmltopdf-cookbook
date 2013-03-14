@@ -1,7 +1,13 @@
 Description
 ===========
 
-Installs wkhtmltopdf binary from tarball.
+Installs wkhtmltopdf.
+
+Recipies
+========
+
+* default: install binary from tarball.
+* source: compile from source (currently only works on ubuntu).
 
 Attributes
 ==========
