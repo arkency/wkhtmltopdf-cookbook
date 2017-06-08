@@ -1,3 +1,3 @@
 default[:wkhtmltopdf][:arch] = "amd64"
 default[:wkhtmltopdf][:version] = "0.11.0_rc1"
-default[:wkhtmltopdf][:static_download_url] = "http://download.gna.org/wkhtmltopdf/obsolete/linux/wkhtmltopdf-#{node[:wkhtmltopdf][:version]}-static-#{node[:wkhtmltopdf][:arch]}.tar.bz2"
+default[:wkhtmltopdf][:static_download_url] = "https://downloads.wkhtmltopdf.org/obsolete/linux/wkhtmltopdf-#{node[:wkhtmltopdf][:version]}-static-#{node[:wkhtmltopdf][:arch]}.tar.bz2"
